@@ -1,0 +1,12 @@
+node_modules/
+.next/
+.env
+.env.*
+playwright-report/
+test-results/
+coverage/
+dist/
+electron-resources/
+*.log
+SEOvux-Setup*.exe
+SEOvra-Desktop-Setup.exe
